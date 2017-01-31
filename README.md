@@ -73,3 +73,7 @@ usage.getUsage()
 #### Usage
 
 * `getUsage()`
+
+### License
+
+MIT.
